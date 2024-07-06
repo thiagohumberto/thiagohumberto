@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi👋, Thiago Humberto here!
+
+Job: Tech Manager <br/>
+
+Enthusiast: AI, digital audio signal process, satellite operations, electric guitars  <br/>
+
+Hobby: HAM Radio Operator, authorized by Anatel (Brazilian comm agency), callsign: PU4TGO  <br/>
+ - Bands: VHF, UHF, 10M HF, V/U FM Satellite operations
+
+Current on-going project: https://github.com/thiagohumberto/satellite-tracker
+
 
 <!--
 **thiagohumberto/thiagohumberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
