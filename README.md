@@ -6,6 +6,7 @@ Enthusiast: AI, digital audio signal process, satellite operations, electric gui
 
 Hobby: HAM Radio Operator, authorized by Anatel (Brazilian comm agency), callsign: PU4TGO  <br/>
  - Bands: VHF, UHF, 10M HF, V/U FM Satellite operations
+ - NOAA APT weather satellites
 
 Current on-going project: https://github.com/thiagohumberto/satellite-tracker
 
