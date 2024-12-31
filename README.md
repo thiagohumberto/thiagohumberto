@@ -1,27 +1,47 @@
-## Hi👋, Thiago Humberto here!
+```
+                                .do-"""""'-o..                         
+                             .o""            ""..                       
+                           ,,''                 ``b.                   
+                          d'                      ``b                   
+                         d`d:                       `b.                 
+                        ,,dP                         `Y.               
+                       d`88                           `8.               
+ ooooooooooooooooood888`88'                            `88888888888bo, 
+d"""    `""""""""""""Y:d8P                              8,          `b 
+8                    P,88b                             ,`8           8 
+8                   ::d888,                           ,8:8.          8 
+:                   dY88888                           `' ::          8 
+:                   8:8888                               `b          8 
+:                   Pd88P',...                     ,d888o.8          8 
+:                   :88'dd888888o.                d8888`88:          8 
+:                  ,:Y:d8888888888b             ,d88888:88:          8 
+:                  :::b88d888888888b.          ,d888888bY8b          8 
+                    b:P8;888888888888.        ,88888888888P          8 
+                    8:b88888888888888:        888888888888'          8 
+                    8:8.8888888888888:        Y8888888888P           8 
+,                   YP88d8888888888P'          ""888888"Y            8 
+:                   :bY8888P"""""''                     :            8 
+:                    8'8888'                            d            8 
+:                    :bY888,                           ,P            8 
+:                     Y,8888           d.  ,-         ,8'            8 
+:                     `8)888:           '            ,P'             8 
+:                      `88888.          ,...        ,P               8 
+:                       `Y8888,       ,888888o     ,P                8 
+:                         Y888b      ,88888888    ,P'                8 
+:                          `888b    ,888888888   ,,'                 8 
+:                           `Y88b  dPY888888OP   :'                  8 
+:                             :88.,'.   `' `8P-"b.                   8 
+:.                             )8P,   ,b '  -   ``b                  8 
+::                            :':   d,'d`b, .  - ,db                 8 
+::                            `b. dP' d8':      d88'                 8 
+::                             '8P" d8P' 8 -  d88P'                  8 
+::                            d,' ,d8'  ''  dd88'                    8 
+::                           d'   8P'  d' dd88'8                     8 
+ :                          ,:   `'   d:ddO8P' `b.                   8 
+ :                  ,dooood88: ,    ,d8888""    ```b.                8 
+ :               .o8"'""""""Y8.b    8 `"''    .o'  `"""ob.           8 
+ :              dP'         `8:     K       dP''        "`Yo.        8 
+ :             dP            88     8b.   ,d'              ``b       8 
+ :             8.            8P     8""'  `"                 :.      8
 
-Job: Tech Manager <br/>
-
-Enthusiast: AI, digital audio signal process, satellite operations, electric guitars  <br/>
-
-Hobby: HAM Radio Operator, authorized by Anatel (Brazilian comm agency), callsign: PU4TGO  <br/>
- - Bands: VHF, UHF, 10M HF, V/U FM Satellite operations
- - NOAA APT weather satellites
-
-Current on-going project: https://github.com/thiagohumberto/satellite-tracker
-
-
-<!--
-**thiagohumberto/thiagohumberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
